@@ -1,0 +1,3 @@
+﻿  test.cpp
+D:\代码\C++\string类\test.cpp(70,19): warning C4018: “<”: 有符号/无符号不匹配
+  string类.vcxproj -> D:\代码\C++\string类\Debug\string类.exe
