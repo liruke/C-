@@ -1,0 +1,4 @@
+﻿  test.cpp
+D:\代码\复习\string类的作业2\test.cpp(144,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\代码\复习\string类的作业2\test.cpp(145,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  string类的作业2.vcxproj -> D:\代码\复习\string类的作业2\x64\Debug\string类的作业2.exe
