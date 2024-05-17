@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u4EE3\u7801\\\u590D\u4E60\\vector\u590D\u4E60\u624B\u6413\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8A9EE2-5967-4BEA-B490-D17126536337}|vector\u590D\u4E60\u624B\u6413.vcxproj|D:\\\u4EE3\u7801\\\u590D\u4E60\\vector\u590D\u4E60\u624B\u6413\\vector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5C8A9EE2-5967-4BEA-B490-D17126536337}|vector\u590D\u4E60\u624B\u6413.vcxproj|solutionrelative:vector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8A9EE2-5967-4BEA-B490-D17126536337}|vector\u590D\u4E60\u624B\u6413.vcxproj|D:\\\u4EE3\u7801\\\u590D\u4E60\\vector\u590D\u4E60\u624B\u6413\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5C8A9EE2-5967-4BEA-B490-D17126536337}|vector\u590D\u4E60\u624B\u6413.vcxproj|solutionrelative:test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 607,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test.cpp",
+              "DocumentMoniker": "D:\\\u4EE3\u7801\\\u590D\u4E60\\vector\u590D\u4E60\u624B\u6413\\test.cpp",
+              "RelativeDocumentMoniker": "test.cpp",
+              "ToolTip": "D:\\\u4EE3\u7801\\\u590D\u4E60\\vector\u590D\u4E60\u624B\u6413\\test.cpp",
+              "RelativeToolTip": "test.cpp",
+              "ViewState": "AQIAAAcAAAAAAAAAAADwvxgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-17T02:35:09.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "vector.h",
+              "DocumentMoniker": "D:\\\u4EE3\u7801\\\u590D\u4E60\\vector\u590D\u4E60\u624B\u6413\\vector.h",
+              "RelativeDocumentMoniker": "vector.h",
+              "ToolTip": "D:\\\u4EE3\u7801\\\u590D\u4E60\\vector\u590D\u4E60\u624B\u6413\\vector.h",
+              "RelativeToolTip": "vector.h",
+              "ViewState": "AQIAAAEBAAAAAAAAAADwvxQBAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-17T02:17:30.993Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
