@@ -1,0 +1,64 @@
+﻿  test.cpp
+D:\代码\复习\list类的模拟\list.h(31,43): error C2275: “lyrics::list_iterator<T,T &,T *>::node”: 应为表达式而不是类型
+D:\代码\复习\list类的模拟\list.h(31,43): error C2275:         with
+D:\代码\复习\list类的模拟\list.h(31,43): error C2275:         [
+D:\代码\复习\list类的模拟\list.h(31,43): error C2275:             T=int
+D:\代码\复习\list类的模拟\list.h(31,43): error C2275:         ]
+  (编译源文件“test.cpp”)
+  D:\代码\复习\list类的模拟\list.h(31,43):
+  模板实例化上下文(最早的实例化上下文)为
+  	D:\代码\复习\list类的模拟\test.cpp(8,13):
+  	查看对正在编译的 类 模板 实例化“lyrics::list<int>”的引用
+  	D:\代码\复习\list类的模拟\list.h(323,8):
+  	在编译 类 模板 成员函数“void lyrics::list<int>::clear(void)”时
+  		D:\代码\复习\list类的模拟\list.h(216,9):
+  		请参阅 "lyrics::list<int>::~list" 中对 "lyrics::list<int>::clear" 的第一个引用
+  		D:\代码\复习\list类的模拟\test.cpp(8,13):
+  		请参阅 "lyrics::testlist" 中对 "lyrics::list<int>::~list" 的第一个引用
+  	D:\代码\复习\list类的模拟\list.h(325,13):
+  	查看对正在编译的 类 模板 实例化“lyrics::list_iterator<T,T &,T *>”的引用
+          with
+          [
+              T=int
+          ]
+  	D:\代码\复习\list类的模拟\list.h(31,3):
+  	在编译 类 模板 成员函数“lyrics::list_iterator<T,T &,T *>::list_iterator(lyrics::list_node<T> *)”时
+          with
+          [
+              T=int
+          ]
+  		D:\代码\复习\list类的模拟\list.h(287,4):
+  		请参阅 "lyrics::list<int>::erase" 中对 "lyrics::list_iterator<T,T &,T *>::list_iterator" 的第一个引用
+          with
+          [
+              T=int
+          ]
+  		D:\代码\复习\list类的模拟\list.h(328,8):
+  		请参阅 "lyrics::list<int>::clear" 中对 "lyrics::list<int>::erase" 的第一个引用
+  		D:\代码\复习\list类的模拟\list.h(216,9):
+  		请参阅 "lyrics::list<int>::~list" 中对 "lyrics::list<int>::clear" 的第一个引用
+  		D:\代码\复习\list类的模拟\test.cpp(8,13):
+  		请参阅 "lyrics::testlist" 中对 "lyrics::list<int>::~list" 的第一个引用
+  
+D:\代码\复习\list类的模拟\list.h(31,42): error C2440: “初始化”: 无法从“lyrics::list_node<T>”转换为“lyrics::list_node<T> *”
+D:\代码\复习\list类的模拟\list.h(31,42): error C2440:         with
+D:\代码\复习\list类的模拟\list.h(31,42): error C2440:         [
+D:\代码\复习\list类的模拟\list.h(31,42): error C2440:             T=int
+D:\代码\复习\list类的模拟\list.h(31,42): error C2440:         ]
+  (编译源文件“test.cpp”)
+  D:\代码\复习\list类的模拟\list.h(31,42):
+  没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  
+D:\代码\复习\list类的模拟\list.h(31,1): error C2439: “lyrics::list_iterator<T,T &,T *>::_node”: 未能初始化成员
+D:\代码\复习\list类的模拟\list.h(31,1): error C2439:         with
+D:\代码\复习\list类的模拟\list.h(31,1): error C2439:         [
+D:\代码\复习\list类的模拟\list.h(31,1): error C2439:             T=int
+D:\代码\复习\list类的模拟\list.h(31,1): error C2439:         ]
+  (编译源文件“test.cpp”)
+  D:\代码\复习\list类的模拟\list.h(29,9):
+  参见“lyrics::list_iterator<T,T &,T *>::_node”的声明
+          with
+          [
+              T=int
+          ]
+  
