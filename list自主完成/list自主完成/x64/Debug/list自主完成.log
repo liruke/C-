@@ -1,0 +1,9 @@
+﻿  list.cpp
+D:\代码\测试仓库\list自主完成\list.h(86,8): warning C4285: 如果使用中辍符应用，则“lyrics::list_reverse_iterator<T,Ref,Ptr>::operator ->”的返回类型为递归
+  (编译源文件“list.cpp”)
+  D:\代码\测试仓库\list自主完成\list.h(86,8):
+  模板实例化上下文(最早的实例化上下文)为
+  	D:\代码\测试仓库\list自主完成\list.h(73,9):
+  	在编译类模板“lyrics::list_reverse_iterator”时
+  
+  list自主完成.vcxproj -> D:\代码\测试仓库\list自主完成\x64\Debug\list自主完成.exe
